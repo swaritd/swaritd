@@ -4,4 +4,4 @@
 
 - ⚡️ I study software engineering at Western University and am an investment associate at Front Row Ventures. I previously worked in data science at TD, and am an alum of The Knowledge Society.
 
-- 📫 Let's connect -> www.twitter.com/swaritdholakia !
+- 📫 Let's connect -> www.twitter.com/swaritdholakia 
